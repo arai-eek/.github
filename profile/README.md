@@ -1,7 +1,7 @@
 # 🌴 Arai-eek Lab
 > **Cyber-Tropical Software, Hardware & DIY Bio-Innovation**
 
-Welcome to the **Arai-eek Lab** organization for sharing projects and knowledge. We are a community-driven collective focusing on the intersection of open-source electronics, DIY biology, and artistic mechatronics.
+Welcome to the **Arai-eek Lab** organization for sharing projects and knowledgeg. We are a community-driven collective focusing on the intersection of open-source electronics, DIY biology, and artistic mechatronics.
 
 ---
 ### 🌐 Connect with us
